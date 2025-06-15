@@ -1,0 +1,54 @@
+Criar um Copilot em branco
+
+Ao criar um Copilot em branco, o usuário entende como iniciar um assistente virtual do zero, sem modelos predefinidos. Isso
+oferece controle total sobre os fluxos de conversa, permitindo:
+
+1 - Definir a identidade e propósito do Copilot.
+2 - Adicionar manualmente os tópicos e interações.
+3 - Integrar dados e serviços conforme necessário.
+
+Esse processo ensina como estruturar um chatbot personalizado desde o início, focado nas necessidades específicas do negócio
+ou projeto.
+
+
+
+Customizar um tópico
+
+Customizar um tópico permite que o usuário adapte as conversas do Copilot para casos de uso específicos. O aprendizado envolve:
+
+1 - Alterar perguntas de gatilho (triggers) para definir como o Copilot reconhece a intenção do usuário.
+2 - Adicionar respostas e condições de fluxo (condicionais “se/senão”).
+3 - Usar variáveis para armazenar e manipular dados.
+
+Esse processo mostra como criar uma conversa mais natural e eficiente, orientada a objetivos específicos.
+
+
+
+Personalizar uma mensagem de erro de um tópico
+
+Ao personalizar mensagens de erro, o usuário aprende a melhorar a experiência do usuário final ao lidar com falhas, como
+entradas inválidas ou falta de resposta. Isso inclui:
+
+1 - Criar mensagens de erro claras e empáticas.
+2 - Direcionar o usuário para tentar novamente ou procurar outro caminho.
+3 - Evitar respostas genéricas que possam causar frustração.
+
+O foco é tornar o Copilot mais confiável e amigável mesmo em situações de erro.
+
+
+
+Aumentar e diminuir a qualidade da resposta com GenAI
+
+Essa funcionalidade permite ajustar o nível de detalhamento ou complexidade da resposta gerada por IA generativa. O aprendizado
+envolve:
+
+1 - Compreender como o controle de qualidade afeta a clareza e profundidade da resposta.
+2 - Usar respostas mais simples para casos diretos e rápidas, e respostas mais completas para situações que exigem explicações.
+3 - Balancear performance e tempo de resposta com a necessidade de conteúdo enriquecido.
+
+Essa função ensina como adaptar a comunicação do Copilot conforme o perfil do usuário ou contexto da conversa.
+
+
+O uso dessas funções no Microsoft Copilot Studio ensina o usuário a desenvolver experiências conversacionais mais eficientes,
+personalizadas e centradas no usuário. Aprendendo a controlar desde a estrutura inicial até os detalhes da resposta e
+tratamento de erros, é possível criar Copilots que realmente agregam valor e melhoram a interação entre sistemas e pessoas.
